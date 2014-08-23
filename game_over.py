@@ -4,7 +4,7 @@
 print("game over")
 
 
-input("\n\nPress the enter key to move on.")
+input("\n\n Press the enter key to move on.")
 
 
 #challenges chapter one
