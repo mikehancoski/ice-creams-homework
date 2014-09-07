@@ -27,3 +27,5 @@ input("Press the enter key to find out.")
 print("107 % 4 =", 107 % 4)
 
 input("\n\nPress the enter key to exit.")
+$poop = "monkeys"
+print = $poop
