@@ -23,4 +23,6 @@ print(
  \_____/ |___/ |_____| |_| \_\
  """
  )
+
+print("Same","Message","As before")
 input("\n\nPress the enter key to exit.")
