@@ -1,7 +1,7 @@
 # basic game over program Chapter 1 -Mike
 
 
-print("game over")
+print("game over!")
 
 
 input("\n\n Press the enter key to move on.")
