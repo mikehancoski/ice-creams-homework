@@ -9,7 +9,7 @@ sure that the first letter of each word in the title is capitalized, as well as
 
 capitalizing the author’s names.
 """
-carPrice = float(input("Input he car price:"))
+carPrice = float(input("Input he car price!:"))
 tax = .08
 license = .02
 dealerPrep = 200
